@@ -167,7 +167,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_validation/index.html.eex:90
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:122
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:141
-#: lib/block_scout_web/views/address_view.ex:223
+#: lib/block_scout_web/views/address_view.ex:219
 msgid "Code"
 msgstr ""
 
@@ -433,7 +433,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/_tabs.html.eex:14
 #: lib/block_scout_web/templates/transaction/_tabs.html.eex:43
 #: lib/block_scout_web/templates/transaction_internal_transaction/index.html.eex:10
-#: lib/block_scout_web/views/address_view.ex:222
+#: lib/block_scout_web/views/address_view.ex:218
 #: lib/block_scout_web/views/transaction_view.ex:176
 msgid "Internal Transactions"
 msgstr ""
@@ -649,7 +649,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_validation/index.html.eex:53
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:33
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:75
-#: lib/block_scout_web/views/address_view.ex:224
+#: lib/block_scout_web/views/address_view.ex:220
 #: lib/block_scout_web/views/tokens/overview_view.ex:37
 msgid "Read Contract"
 msgstr ""
@@ -850,7 +850,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_validation/index.html.eex:18
 #: lib/block_scout_web/templates/address_validation/index.html.eex:62
 #: lib/block_scout_web/templates/address_validation/index.html.eex:70
-#: lib/block_scout_web/views/address_view.ex:220
+#: lib/block_scout_web/views/address_view.ex:216
 msgid "Tokens"
 msgstr ""
 
@@ -900,7 +900,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:24
 #: lib/block_scout_web/templates/pending_transaction/index.html.eex:56
 #: lib/block_scout_web/templates/transaction/index.html.eex:56
-#: lib/block_scout_web/views/address_view.ex:221
+#: lib/block_scout_web/views/address_view.ex:217
 msgid "Transactions"
 msgstr ""
 
