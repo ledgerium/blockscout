@@ -24,7 +24,7 @@
                     <%= address |> BlockScoutWeb.AddressView.address_partial_selector(nil, nil) |> BlockScoutWeb.RenderHelpers.render_partial() %>
                     <!-- number of txns for this address -->
                     <span>
-                      <span data-test="transaction_count"><%= transaction_count(address) %></span>
+                      <span data-test="transaction_count"><%= @transaction_count %></span>
                       <%= gettext "Transactions" %>
                     </span>
                   </div>
